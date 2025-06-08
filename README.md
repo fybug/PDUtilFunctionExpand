@@ -30,8 +30,5 @@
 -------------------------------------------------------------------------------
 
 ### 提供bug反馈或建议
-
-// todo
-
-- [码云Gitee](https://gitee.com/PatternDirClean/PDUtilFunctionExpand/issues)
-- [Github](https://github.com/PatternDirClean/PDUtilFunctionExpand/issues)
+- [码云Gitee](https://gitee.com/fybug/pdutil-function-expand/issues)
+- [Github](https://github.com/fybug/PDUtilFunctionExpand)
